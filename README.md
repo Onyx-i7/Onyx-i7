@@ -61,6 +61,8 @@ $
 
 ---
 
-## Profiles
+## Profiles & Accounts
 
 - **CurseForge**: [onyx_i7](https://www.curseforge.com/members/onyx_i7)
+- **Modrinth**: [Onyx_i7](https://modrinth.com/user/Onyx_i7)
+- **Discord**: edward.v902
