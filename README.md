@@ -21,6 +21,8 @@ I do all my work on an old computer that runs antiX Linux and has a Pentium Dual
 - **The system I use to develop**: antiX Linux 23.2, with IceWM
 - **What I focus on**: Making everything work better, making sure everything works on all kinds of computers, and using resources wisely
 
+![Onyx-i7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Onyx-i7&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
+
 ---
 
 ## My PC
@@ -66,3 +68,11 @@ $
 - **CurseForge**: [onyx_i7](https://www.curseforge.com/members/onyx_i7)
 - **Modrinth**: [Onyx_i7](https://modrinth.com/user/Onyx_i7)
 - **Discord**: edward.v902
+
+
+
+
+<div align="center">
+    <h2>GitHub Stats</h2>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Onyx-i7&theme=gruvbox&hide_border=true" />
+</div>
