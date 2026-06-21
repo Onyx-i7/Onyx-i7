@@ -34,16 +34,16 @@ I do all my work on an old computer that runs antiX Linux and has a Pentium Dual
 This is the PC I use every day for development, testing, and compilation:
 
 ```text
-Onyx_i7@Onyx_i7:~
+Edward@Edward:~
 $ fastfetch 
-        _,met$$$$$gg.          Onyx_i7@Onyx_i7
+        _,met$$$$$gg.          Edward@Edward
      ,g$$$$$$$$$$$$$$$P.       -------------
    ,g$$P""       """Y$$.".     OS: Debian GNU/Linux 12.14 (bookworm) x86_64
   ,$$P'              `$$$.     Kernel: Linux 6.6.138-antix.1-amd64-smp
-',$$P       ,ggs.     `$$b:    Uptime: 6 hours, 13 mins
-`d$$'     ,$P"'   .    $$$     Packages: 2104 (dpkg), 5 (flatpak-system), 5 (fl)
+',$$P       ,ggs.     `$$b:    Uptime: 7 hours, 56 mins
+`d$$'     ,$P"'   .    $$$     Packages: 1 (appimage), 2230 (dpkg)
  $$P      d$'     ,    $$P     Shell: bash 5.2.15
- $$:      $$.   -    ,d$$'     Display: 1280x768, 75 Hz
+ $$:      $$.   -    ,d$$'     Display (SMB2230N): 1280x768 in 22", 75 Hz
  $$;      Y$b._   _,d$P'       DE: icewm
  Y$$.    `.`"Y$$$$P"'          WM: IceWM 4.0.0 (Linux/x86_64) (X11)
  `$$b      "-.__               Theme: gtk2 [Qt], Arc-EvoPro2 [GTK2/3]
@@ -53,15 +53,15 @@ $ fastfetch
        `Y$$b.                  Terminal: roxterm
          `"Y$b._               CPU: Intel(R) Pentium(R) Dual E2220 (2) @ 2.40 Gz
              `""""             GPU: Intel 82G33/G31 Express Integrated Graphics]
-                               Memory: 2.14 GiB / 2.90 GiB (74%)
-                               Swap: 996.35 MiB / 4.00 GiB (24%)
-                               Disk (/): 38.02 GiB / 77.85 GiB (49%) - ext4
-                               Local IP (eth0): 192.168.1.104/24
+                               Memory: 580.08 MiB / 2.90 GiB (20%)
+                               Swap: 275.09 MiB / 6.93 GiB (4%)
+                               Disk (/): 38.45 GiB / 77.85 GiB (49%) - ext4
+                               Local IP (eth0): 192.168.1.102/24
                                Locale: es_VE.UTF-8
 
                                                        
                                                        
-Onyx_i7@Onyx_i7:~
+Edward@Edward:~
 $ 
 ```
 
