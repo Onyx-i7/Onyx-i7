@@ -2,7 +2,7 @@
 
 ### Developer and Minecraft Mod Maintainer
 
-I'm a developer and I focus on making mods work faster and work better on all types of computers. especially in mine and my knowledge reaches Java, Python and a little bit of C++
+I'm a developer and I focus on making mods work faster and work better on all types of computers. especially in mine and my knowledge reaches Java, Python, JS and a little bit of C++
 
 I do all my work on an old computer that runs antiX Linux and has a Pentium Dual-Core processor with 3GB of RAM. This means that I have to be very careful about the memory and processing power that my code uses. If it works well on my computer, I know it will work great on powerful PCs
 
@@ -16,7 +16,7 @@ I do all my work on an old computer that runs antiX Linux and has a Pentium Dual
 
 ## Technical Stack
 
-- **The programming languages I use the most**: Java, Python
+- **The programming languages I use the most**: Java, Python, JS
 - **I also know a bit about**: Basic C++
 - **The system I use to develop**: antiX Linux 23.2, with IceWM
 - **What I focus on**: Making everything work better, making sure everything works on all kinds of computers, and using resources wisely
