@@ -11,7 +11,7 @@ I do all my work on an old computer that runs antiX Linux and has a Pentium Dual
 ## Projects
 * **[SimpleDifficulty](https://github.com/Onyx-i7/SimpleDifficulty) (Active Maintainer):** I'm in charge of this fork. I constantly update it to fix bugs and optimize it. Making sure it works better without breaking anything that already works
 * **[NoSuperflatSlimes](https://github.com/Onyx-i7/NoSlimeSuperflatMod) (Author):** I built this mod from scratch because I wanted to control how Slimes spawn in worlds. It is very small. Uses hardly any resources
-* **[GitHub Enhanced](https://github.com/Onyx-i7/GitHub-Enhanced) (Author):** A professional userscript that enhances GitHub with release statistics, extended metadata, tracking prevention, and performance optimizations. Privacy-first approach with minimal overhead
+* **[GitHub Enhanced](https://github.com/Onyx-i7/GitHub-Enhanced) (Author):** A userscript that enhances GitHub with release statistics, extended metadata, tracking prevention, and performance optimizations. Privacy-first approach with minimal overhead
 
 ---
 
