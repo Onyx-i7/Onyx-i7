@@ -1,27 +1,68 @@
-## Hi there 👋
+<div align="center">
+    <h1>Hi there 👋 I'm Onyx_i7</h1>
+    <h3>Developer & Minecraft Mod Maintainer</h3>
+    <p>
+        <em>"If it runs well on my potato PC, it'll fly on any machine"</em>
+    </p>
+</div>
 
-### Developer and Minecraft Mod Maintainer
+---
 
-I'm a developer and I focus on making mods work faster and work better on all types of computers. especially in mine and my knowledge reaches Java, Python, Javascript and a little bit of C++
+## About Me
 
-I do all my work on an old computer that runs antiX Linux and has a Pentium Dual-Core processor with 3GB of RAM. This means that I have to be very careful about the memory and processing power that my code uses. If it works well on my computer, I know it will work great on powerful PCs
+I'm a developer and I focus on making mods work faster and work better on all types of computers, especially on mine. My knowledge reaches **Java**, **Python**, **JavaScript**, and a little bit of **C++**
+
+I do all my work on an old computer that runs **antiX Linux** and has a **Pentium Dual-Core** processor with **3GB of RAM**. This means that I have to be very careful about the memory and processing power that my code uses. If it works well on my computer, I know it will work great on powerful PCs
 
 ---
 
 ## Projects
-### 🛠️ What I Do
-I specialize in taking existing Minecraft mods and improving them.   Whether it's maintaining a Forge 1.12.2 mod, migrating a project to the latest version of Fabric, or creating userscripts with a focus on privacy, my approach is always on **optimization, clean code, and minimal overhead**
 
-###  Featured Projects
-- **[SimpleDifficulty](https://github.com/Onyx-i7/SimpleDifficulty)** *(Maintainer)*: Optimizing and maintaining this Forge 1.12.2 fork. Fixing bugs and improving performance without breaking legacy features
-- **[NoSlimeSuperflat](https://github.com/Onyx-i7/NoSlimeSuperflatMod)** *(Author)*: A lightweight mod preventing slimes in superflat worlds. Available for Forge 1.12.2/1.16.5 and Fabric 1.21.1/26.2
-- **[GitHub Enhanced](https://github.com/Onyx-i7/GitHub-Enhanced)** *(Author)*: A privacy-first userscript to enhance GitHub. Zero tracking, minimal overhead
+### What I Do
+
+I specialize in taking existing Minecraft mods and improving them. Whether it's maintaining a Forge 1.12.2 mod, migrating a project to the latest version of Fabric, or creating userscripts with a focus on privacy, my approach is always on **optimization, clean code, and minimal overhead**
+
+### Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Onyx-i7/SimpleDifficulty">SimpleDifficulty</a></h3>
+      <p><em>Active Maintainer</em></p>
+      <p>Optimizing and maintaining this Forge 1.12.2 fork. Fixing bugs and improving performance without breaking legacy features</p>
+      <p>
+        <img src="https://img.shields.io/badge/Forge-1.12.2-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Java-8-orange?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Onyx-i7/NoSlimeSuperflatMod">NoSlimeSuperflat</a></h3>
+      <p><em>Author</em></p>
+      <p>A lightweight mod preventing slimes in superflat worlds. Available for Forge 1.12.2/1.16.5 and Fabric 1.21.1/26.2</p>
+      <p>
+        <img src="https://img.shields.io/badge/Fabric-26.2-purple?style=flat-square" />
+        <img src="https://img.shields.io/badge/Java-25-red?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" colspan="2">
+      <h3><a href="https://github.com/Onyx-i7/GitHub-Enhanced">GitHub Enhanced</a></h3>
+      <p><em>Author</em></p>
+      <p>A privacy-first userscript to enhance GitHub with release statistics, extended metadata, and tracking prevention. Zero tracking, minimal overhead</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=flat-square" />
+        <img src="https://img.shields.io/badge/Privacy-First-green?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## Technical Stack
 
-- **The programming languages I use the most**: Java, Python, Javascript
+- **The programming languages I use the most**: Java, Python, JavaScript
 - **I also know a bit about**: Basic C++
 - **The system I use to develop**: antiX Linux 23.2, with IceWM
 - **What I focus on**: Making everything work better, making sure everything works on all kinds of computers, and using resources wisely
@@ -54,8 +95,8 @@ $ fastfetch
    `Y$$.                       Font: Ubuntu (10.5pt) [GTK2/3]
      `$$b.                     Cursor: Adwaita
        `Y$$b.                  Terminal: roxterm
-         `"Y$b._               CPU: Intel(R) Pentium(R) Dual E2220 (2) @ 2.40 Gz
-             `""""             GPU: Intel 82G33/G31 Express Integrated Graphics]
+         `"Y$b._               CPU: Intel(R) Pentium(R) Dual E2220 (2) @ 2.40 GHz
+             `""""             GPU: Intel 82G33/G31 Express Integrated Graphics
                                Memory: 580.08 MiB / 2.90 GiB (20%)
                                Swap: 275.09 MiB / 6.93 GiB (4%)
                                Disk (/): 38.45 GiB / 77.85 GiB (49%) - ext4
@@ -72,15 +113,24 @@ $
 
 ## Profiles & Accounts
 
-- **CurseForge**: [onyx_i7](https://www.curseforge.com/members/onyx_i7)
-- **Modrinth**: [Onyx_i7](https://modrinth.com/user/Onyx_i7)
-- **Discord**: edward.v902
+<div align="center">
+  <a href="https://github.com/Onyx-i7"><img src="https://img.shields.io/badge/GitHub-Onyx_i7-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.curseforge.com/members/onyx_i7"><img src="https://img.shields.io/badge/CurseForge-onyx_i7-F16436?style=for-the-badge&logo=curseforge" /></a>
+  <a href="https://modrinth.com/user/Onyx_i7"><img src="https://img.shields.io/badge/Modrinth-Onyx_i7-00AF5C?style=for-the-badge&logo=modrinth" /></a>
+  <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-edward.v902-5865F2?style=for-the-badge&logo=discord" /></a>
+</div>
 
-
-
+---
 
 <div align="center">
-        <h2>GitHub Stats</h2>
-        <img src="https://github-readme-stats.vercel.app/api?username=Onyx-i7&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Onyx-i7&theme=tokyonight&hide_border=true"/>
+    <h2>GitHub Stats</h2>
+    <img src="https://github-readme-stats.vercel.app/api?username=Onyx-i7&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+    <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Onyx-i7&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
+
+<div align="center">
+  <sub>Built with :heart: on a potato PC running antiX Linux</sub>
 </div>
