@@ -9,9 +9,13 @@ I do all my work on an old computer that runs antiX Linux and has a Pentium Dual
 ---
 
 ## Projects
-* **[SimpleDifficulty](https://github.com/Onyx-i7/SimpleDifficulty) (Active Maintainer):** I'm in charge of this fork. I constantly update it to fix bugs and optimize it. Making sure it works better without breaking anything that already works
-* **[NoSuperflatSlimes](https://github.com/Onyx-i7/NoSlimeSuperflatMod) (Author):** I built this mod from scratch because I wanted to control how Slimes spawn in worlds. It is very small. Uses hardly any resources
-* **[GitHub Enhanced](https://github.com/Onyx-i7/GitHub-Enhanced) (Author):** A userscript that enhances GitHub with release statistics, extended metadata, tracking prevention, and performance optimizations. Privacy-first approach with minimal overhead
+### 🛠️ What I Do
+I specialize in taking existing Minecraft mods and improving them.   Whether it's maintaining a Forge 1.12.2 mod, migrating a project to the latest version of Fabric, or creating userscripts with a focus on privacy, my approach is always on **optimization, clean code, and minimal overhead**
+
+###  Featured Projects
+- **[SimpleDifficulty](https://github.com/Onyx-i7/SimpleDifficulty)** *(Maintainer)*: Optimizing and maintaining this Forge 1.12.2 fork. Fixing bugs and improving performance without breaking legacy features
+- **[NoSlimeSuperflat](https://github.com/Onyx-i7/NoSlimeSuperflatMod)** *(Author)*: A lightweight mod preventing slimes in superflat worlds. Available for Forge 1.12.2/1.16.5 and Fabric 1.21.1/26.2
+- **[GitHub Enhanced](https://github.com/Onyx-i7/GitHub-Enhanced)** *(Author)*: A privacy-first userscript to enhance GitHub. Zero tracking, minimal overhead
 
 ---
 
