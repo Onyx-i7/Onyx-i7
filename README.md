@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Hi there 👋 I'm Onyx_i7</h1>
+    <h1>Hi there 👋</h1>
     <h3>Developer & Minecraft Mod Maintainer</h3>
     <p>
         <em>"If it runs well on my potato PC, it'll fly on any machine"</em>
