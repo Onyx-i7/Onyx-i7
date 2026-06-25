@@ -46,12 +46,22 @@ I specialize in taking existing Minecraft mods and improving them. Whether it's 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top" colspan="2">
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/Onyx-i7/GitHub-Enhanced">GitHub Enhanced</a></h3>
       <p><em>Author</em></p>
       <p>A privacy-first userscript to enhance GitHub with release statistics, extended metadata, and tracking prevention. Zero tracking, minimal overhead</p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=flat-square" />
+        <img src="https://img.shields.io/badge/Privacy-First-green?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Onyx-i7/Optimized-Kick-Player">Optimized Kick Player</a></h3>
+      <p><em>Author</em> • <a href="https://onyx-i7.github.io/Optimized-Kick-Player/">🌐 Live Demo</a></p>
+      <p>A clean, fast, and privacy-focused web player for Kick streams. No ads, no tracking, zero dependencies. Single HTML file under 15KB</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-Standards--compliant-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/JavaScript-Vanilla-yellow?style=flat-square" />
         <img src="https://img.shields.io/badge/Privacy-First-green?style=flat-square" />
       </p>
     </td>
