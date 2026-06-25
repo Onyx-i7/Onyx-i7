@@ -32,7 +32,7 @@ I specialize in taking existing Minecraft mods and improving them. Whether it's 
       <p>Optimizing and maintaining this Forge 1.12.2 fork. Fixing bugs and improving performance without breaking legacy features</p>
       <p>
         <img src="https://img.shields.io/badge/Forge-1.12.2-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Java-8-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/Java-25-orange?style=flat-square" />
       </p>
     </td>
     <td width="50%" valign="top">
