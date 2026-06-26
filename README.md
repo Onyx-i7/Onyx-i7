@@ -66,6 +66,18 @@ I specialize in taking existing Minecraft mods and improving them. Whether it's 
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="100%" valign="top" colspan="2">
+      <h3><a href="https://github.com/Onyx-i7/StreakMaintainer">StreakMaintainer</a></h3>
+      <p><em>Author</em></p>
+      <p>A lightweight GitHub Actions utility to automate contribution heartbeats and maintain activity streaks. Zero dependencies, privacy-focused, executes in under 15 seconds</p>
+      <p>
+        <img src="https://img.shields.io/badge/GitHub_Actions-YAML-2088FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/Zero_Dependencies-✓-green?style=flat-square" />
+        <img src="https://img.shields.io/badge/Lightweight-<15s-yellow?style=flat-square" />
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -94,7 +106,7 @@ $ fastfetch
      ,g$$$$$$$$$$$$$$$P.       -------------
    ,g$$P""       """Y$$.".     OS: Debian GNU/Linux 12.14 (bookworm) x86_64
   ,$$P'              `$$$.     Kernel: Linux 6.6.138-antix.1-amd64-smp
-',$$P       ,ggs.     `$$b:    Uptime: 7 hours, 56 mins
+,$$P'       ,ggs.     `$$b:    Uptime: 7 hours, 56 mins
 `d$$'     ,$P"'   .    $$$     Packages: 1 (appimage), 2230 (dpkg)
  $$P      d$'     ,    $$P     Shell: bash 5.2.15
  $$:      $$.   -    ,d$$'     Display (SMB2230N): 1280x768 in 22", 75 Hz
