@@ -120,24 +120,24 @@ $ fastfetch
         _,met$$$$$gg.          Edward@Edward
      ,g$$$$$$$$$$$$$$$P.       -------------
    ,g$$P""       """Y$$.".     OS: Debian GNU/Linux 12.14 (bookworm) x86_64
-  ,$$P'              `$$$.     Kernel: Linux 6.6.138-antix.1-amd64-smp
-,$$P'       ,ggs.     `$$b:    Uptime: 7 hours, 56 mins
+  ,$$P'              `$$$.     Kernel: Linux 6.6.139-antix.1-amd64-smp
+',$$P       ,ggs.     `$$b:    Uptime: 6 hours, 5 mins
 `d$$'     ,$P"'   .    $$$     Packages: 1 (appimage), 2230 (dpkg)
  $$P      d$'     ,    $$P     Shell: bash 5.2.15
  $$:      $$.   -    ,d$$'     Display (SMB2230N): 1280x768 in 22", 75 Hz
  $$;      Y$b._   _,d$P'       DE: icewm
  Y$$.    `.`"Y$$$$P"'          WM: IceWM 4.0.0 (Linux/x86_64) (X11)
- `$$b      "-.__               Theme: gtk2 [Qt], Arc-EvoPro2 [GTK2/3]
-  `Y$$b                        Icons: papirus-antix [Qt], Papirus [GTK2/3]
+ `$$b      "-.__               Theme: gtk2 [Qt], Materia-dark-compact [GTK2/3]
+  `Y$$b                        Icons: papirus-antix [Qt], Papirus-Dark [GTK2/3]
    `Y$$.                       Font: Ubuntu (10.5pt) [GTK2/3]
      `$$b.                     Cursor: Adwaita
        `Y$$b.                  Terminal: roxterm
-         `"Y$b._               CPU: Intel(R) Pentium(R) Dual E2220 (2) @ 2.40 GHz
-             `""""             GPU: Intel 82G33/G31 Express Integrated Graphics
-                               Memory: 580.08 MiB / 2.90 GiB (20%)
-                               Swap: 275.09 MiB / 6.93 GiB (4%)
-                               Disk (/): 38.45 GiB / 77.85 GiB (49%) - ext4
-                               Local IP (eth0): 192.168.1.102/24
+         `"Y$b._               CPU: Intel(R) Pentium(R) Dual E2220 (2) @ 2.40 Gz
+             `""""             GPU: Intel 82G33/G31 Express Integrated Graphics]
+                               Memory: 1.06 GiB / 2.90 GiB (37%)
+                               Swap: 88.25 MiB / 6.93 GiB (1%)
+                               Disk (/): 38.43 GiB / 77.85 GiB (49%) - ext4
+                               Local IP (eth0): 192.168.1.104/24
                                Locale: es_VE.UTF-8
 
                                                        
