@@ -138,9 +138,3 @@ $
     <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Onyx-i7&theme=tokyonight&hide_border=true"/>
 </div>
-
----
-
-<div align="center">
-  <sub>Built with :heart: on a potato PC running antiX Linux</sub>
-</div>
