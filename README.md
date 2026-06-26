@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,4,6,11,14,20,24,30,41&height=250&section=header&text=Onyx_i7&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Developer%20%7C%20Mod%20Maintainer%20%7C%20optimizer&descSize=25&descAlignY=55&descColor=fff" alt="Onyx_i7"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,4,6,11,14,20,24,30,41&height=250&section=header&text=Onyx_i7&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Developer%20%7C%20Mod%20Maintainer%20%7C%20Optimizer&descSize=25&descAlignY=55&descColor=fff" alt="Onyx_i7"/>
 </div>
 
 <div align="center">
