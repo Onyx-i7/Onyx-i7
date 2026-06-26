@@ -1,10 +1,21 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,4,6,11,14,20,24,30,41&height=250&section=header&text=Onyx_i7&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Developer%20%7C%20Mod%20Maintainer%20%7C%20Optimization%20Enthusiast&descSize=25&descAlignY=55&descColor=fff" alt="Onyx_i7"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=Minecraft+Mod+Maintainer;Java+%7C+Python+%7C+JavaScript+%7C+C%2B%2B;Performance+Optimization;Linux+Enthusiast;Privacy+Advocate;Memory+Leak+Hunter;Code+Quality+Matters" alt="Typing SVG"/>
+</div>
+
+---
+
+<div align="center">
     <h1>Hi there 👋</h1>
     <h3>Developer & Minecraft Mod Maintainer</h3>
     <p>
         <em>"If it runs well on my potato PC, it'll fly on any machine"</em>
     </p>
 </div>
+
 
 ---
 
@@ -33,6 +44,7 @@ I specialize in taking existing Minecraft mods and improving them. Whether it's 
       <p>
         <img src="https://img.shields.io/badge/Forge-1.12.2-blue?style=flat-square" />
         <img src="https://img.shields.io/badge/Java-25-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/Memory_Leaks-Fixed-red?style=flat-square" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -42,6 +54,7 @@ I specialize in taking existing Minecraft mods and improving them. Whether it's 
       <p>
         <img src="https://img.shields.io/badge/Fabric-26.2-purple?style=flat-square" />
         <img src="https://img.shields.io/badge/Java-25-red?style=flat-square" />
+        <img src="https://img.shields.io/badge/Lightweight-✓-green?style=flat-square" />
       </p>
     </td>
   </tr>
@@ -53,6 +66,7 @@ I specialize in taking existing Minecraft mods and improving them. Whether it's 
       <p>
         <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=flat-square" />
         <img src="https://img.shields.io/badge/Privacy-First-green?style=flat-square" />
+        <img src="https://img.shields.io/badge/Zero_Tracking-✓-blue?style=flat-square" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -62,7 +76,7 @@ I specialize in taking existing Minecraft mods and improving them. Whether it's 
       <p>
         <img src="https://img.shields.io/badge/HTML5-Standards--compliant-orange?style=flat-square" />
         <img src="https://img.shields.io/badge/JavaScript-Vanilla-yellow?style=flat-square" />
-        <img src="https://img.shields.io/badge/Privacy-First-green?style=flat-square" />
+        <img src="https://img.shields.io/badge/<15KB-✓-purple?style=flat-square" />
       </p>
     </td>
   </tr>
@@ -75,6 +89,7 @@ I specialize in taking existing Minecraft mods and improving them. Whether it's 
         <img src="https://img.shields.io/badge/GitHub_Actions-YAML-2088FF?style=flat-square" />
         <img src="https://img.shields.io/badge/Zero_Dependencies-✓-green?style=flat-square" />
         <img src="https://img.shields.io/badge/Lightweight-<15s-yellow?style=flat-square" />
+        <img src="https://img.shields.io/badge/Privacy_First-✓-blue?style=flat-square" />
       </p>
     </td>
   </tr>
@@ -89,9 +104,9 @@ I specialize in taking existing Minecraft mods and improving them. Whether it's 
 - **The system I use to develop**: antiX Linux 23.2, with IceWM
 - **What I focus on**: Making everything work better, making sure everything works on all kinds of computers, and using resources wisely
 
-<div align="left">
-    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Onyx-i7&theme=tokyonight&show_icons=true&locale=en&layout=compact&cache_seconds=1800&v=1" alt="Onyx-i7"/></p>
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,git,linux,bash,vscode,github"/>
+</p>
 
 ---
 
@@ -130,7 +145,6 @@ $ fastfetch
 Edward@Edward:~
 $ 
 ```
-
 ---
 
 ## Profiles & Accounts
@@ -144,9 +158,29 @@ $
 
 ---
 
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">MY GITHUB STATS 📈</h2></summary>
+  </ul>
+</div>
+
+<p align="center">
+<a href="https://github.com/Onyx-i7">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Onyx-i7&theme=radical&show_icons=true&count_private=true&cache_seconds=1800&v=1" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Onyx-i7&theme=radical&show_icons=true&locale=en&layout=compact&cache_seconds=1800&v=1" alt="Onyx-i7"/>
+</a>
+</p>
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Onyx-i7&theme=radical&hide_border=true&cache_seconds=1800&v=1"/>
+</p>
+
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Onyx-i7&bg_color=0d1117&color=ff6b6b&line=ee5a6f&point=ff6b6b&area=true&hide_border=true" alt="Activity Graph"/>
+</p>
+
+---
+
 <div align="center">
-    <h2>GitHub Stats</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=Onyx-i7&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800&v=1" />
-    <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Onyx-i7&theme=tokyonight&hide_border=true&cache_seconds=1800&v=1"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,4,6,11,14,20,24,30,41&height=150&section=footer" />
 </div>
