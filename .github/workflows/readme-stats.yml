@@ -3,7 +3,7 @@ name: GitHub Readme Stats
 on:
   schedule:
     - cron: '0 */12 * * *'
-  workflow_dispatch:
+  workflow_dispatch: 
 
 jobs:
   update-stats:
@@ -14,13 +14,21 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Generate stats card
+      - name: Generate general stats card
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: 'username=${{ github.repository_owner }}&show_icons=true&theme=radical'
+          options: 'username=Onyx-i7&theme=radical&show_icons=true&count_private=true'
           token: ${{ secrets.GH_TOKEN }}
           path: ./generated-stats/github-readme-stats.svg
+
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: 'username=Onyx-i7&theme=radical&show_icons=true&locale=en&layout=compact'
+          token: ${{ secrets.GH_TOKEN }}
+          path: ./generated-stats/github-top-langs.svg
 
       - name: Commit & Push Changes
         run: |
