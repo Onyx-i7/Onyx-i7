@@ -8,15 +8,19 @@ on:
 jobs:
   update-stats:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Generate SVG Stats
-        uses: anuraghazra/github-readme-stats-action@main
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
         with:
-          gh_token: ${{ secrets.GH_TOKEN }}
-          output_dir: ./generated-stats
+          card: stats
+          options: 'username=${{ github.repository_owner }}&show_icons=true&theme=radical'
+          token: ${{ secrets.GH_TOKEN }}
+          path: ./generated-stats/github-readme-stats.svg
 
       - name: Commit & Push Changes
         run: |
