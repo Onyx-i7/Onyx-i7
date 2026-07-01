@@ -166,8 +166,8 @@ $
 
 <p align="center">
 <a href="https://github.com/Onyx-i7">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Onyx-i7&theme=radical&show_icons=true&count_private=true&cache_seconds=1800&v=1" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Onyx-i7&theme=radical&show_icons=true&locale=en&layout=compact&cache_seconds=1800&v=1" alt="Onyx-i7"/>
+    <img height="180em" src="./generated-stats/github-readme-stats.svg" />
+    <img height="180em" src="./generated-stats/github-top-langs.svg" alt="Onyx-i7"/>
 </a>
 </p>
 
