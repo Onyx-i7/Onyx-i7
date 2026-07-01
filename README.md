@@ -184,3 +184,6 @@ $
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,4,6,11,14,20,24,30,41&height=150&section=footer" />
 </div>
+
+
+![testing](./generated-stats/github-readme-stats.svg)
