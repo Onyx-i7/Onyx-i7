@@ -14,7 +14,6 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      # 1. Generar la tarjeta de estadísticas generales
       - name: Generate general stats card
         uses: stats-organization/github-readme-stats-action@v2
         with:
@@ -23,7 +22,6 @@ jobs:
           token: ${{ secrets.GH_TOKEN }}
           path: ./generated-stats/github-readme-stats.svg
 
-      # 2. Generar la tarjeta de lenguajes más usados
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v2
         with:
@@ -32,14 +30,15 @@ jobs:
           token: ${{ secrets.GH_TOKEN }}
           path: ./generated-stats/github-top-langs.svg
 
-      # 3. Generar la tarjeta de Racha (Streak Stats)
       - name: Generate streak stats card
-        uses: stats-organization/github-readme-stats-action@v2
+        uses: lowlighter/metrics@latest
         with:
-          card: streak
-          options: 'username=Onyx-i7&theme=radical'
           token: ${{ secrets.GH_TOKEN }}
-          path: ./generated-stats/github-streak-stats.svg
+          filename: ./generated-stats/github-streak-stats.svg
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          config_timezone: America/Caracas
 
       - name: Commit & Push Changes
         run: |
