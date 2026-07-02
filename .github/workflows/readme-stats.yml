@@ -14,6 +14,11 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
+      # Crear la carpeta por si acaso no existe
+      - name: Create generated-stats directory
+        run: mkdir -p ./generated-stats
+
+      # 1. Generar la tarjeta de estadísticas generales
       - name: Generate general stats card
         uses: stats-organization/github-readme-stats-action@v2
         with:
@@ -22,6 +27,7 @@ jobs:
           token: ${{ secrets.GH_TOKEN }}
           path: ./generated-stats/github-readme-stats.svg
 
+      # 2. Generar la tarjeta de lenguajes más usados
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v2
         with:
@@ -30,20 +36,16 @@ jobs:
           token: ${{ secrets.GH_TOKEN }}
           path: ./generated-stats/github-top-langs.svg
 
-      - name: Generate streak stats card
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GH_TOKEN }}
-          filename: ./generated-stats/github-streak-stats.svg
-          base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-          config_timezone: America/Caracas
+      # 3. Descargar Racha
+      - name: Download Streak Stats
+        run: |
+          curl -s "https://github-readme-streak-stats.herokuapp.com/?user=Onyx-i7&theme=radical&hide_border=true" -o ./generated-stats/github-streak-stats.svg
 
+      # 4. Guardar todos los cambios
       - name: Commit & Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add .
-          git diff-index --quiet HEAD || git commit -m "Update GitHub Readme Stats"
+          git diff-index --quiet HEAD || git commit -m "Update GitHub Readme Stats and Streak"
           git push
