@@ -172,7 +172,7 @@ $
 </p>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Onyx-i7&theme=radical&hide_border=true&cache_seconds=1800&v=1"/>
+    <img src="./generated-stats/github-streak-stats.svg"/>
 </p>
 
 <p align="center">
