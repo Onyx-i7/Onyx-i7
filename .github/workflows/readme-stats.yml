@@ -12,36 +12,34 @@ jobs:
       contents: write
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7.0.0
 
-      # Crear la carpeta por si acaso no existe
       - name: Create generated-stats directory
         run: mkdir -p ./generated-stats
 
-      # 1. Generar la tarjeta de estadísticas generales
       - name: Generate general stats card
-        uses: stats-organization/github-readme-stats-action@v2
+        uses: stats-organization/github-readme-stats-action@v2.0.1
         with:
           card: stats
           options: 'username=Onyx-i7&theme=radical&show_icons=true&count_private=true'
           token: ${{ secrets.GH_TOKEN }}
           path: ./generated-stats/github-readme-stats.svg
 
-      # 2. Generar la tarjeta de lenguajes más usados
       - name: Generate top languages card
-        uses: stats-organization/github-readme-stats-action@v2
+        uses: stats-organization/github-readme-stats-action@v2.0.1
         with:
           card: top-langs
           options: 'username=Onyx-i7&theme=radical&show_icons=true&locale=en&layout=compact'
           token: ${{ secrets.GH_TOKEN }}
           path: ./generated-stats/github-top-langs.svg
 
-      # 3. Descargar Racha
       - name: Download Streak Stats
         run: |
-          curl -s "https://github-readme-streak-stats.herokuapp.com/?user=Onyx-i7&theme=radical&hide_border=true" -o ./generated-stats/github-streak-stats.svg
+          curl -s -H "Authorization: token ${{ secrets.GH_TOKEN }}" \
+          "https://github-readme-streak-stats.herokuapp.com/?user=Onyx-i7&theme=radical&hide_border=true&cache_seconds=0" \
+          -o ./generated-stats/github-streak-stats.svg
 
-      # 4. Guardar todos los cambios
+      # 4. Guardar cambios
       - name: Commit & Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
