@@ -3,16 +3,16 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=Minecraft+Mod+Maintainer;1000+FPS+looking+at+the+sky;Java+%7C+Python+%7C+JavaScript+%7C+C%2B%2B;Performance+Optimization;Follow+the+train,+CJ!;Privacy+First;Memory+Leak+Hunter;Code+Quality+Matters" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=Minecraft+Mod+Maintainer;1000+FPS+looking+at+the+sky;Java+%7C+Python+%7C+JavaScript+%7C+C%2B%2B;All+built+using+a+Foxconn+G31MV-K+btw;Performance+Optimization;Memory+Leak+Hunter;Code+Quality+Matters" alt="Typing SVG"/>
 </div>
 
 ---
 
 <div align="center">
     <h1>Hi there 👋</h1>
-    <h3>Developer & Minecraft Mod Maintainer</h3>
+    <h3>Minecraft Mod Developer & Maintainer</h3>
     <p>
-        <em>"If it runs well on my potato PC, it'll fly on any machine"</em>
+        <em>"If it works well on my dinosaur-era PC, it'll run like a charm on any machine"</em>
     </p>
 </div>
 
@@ -21,24 +21,23 @@
 
 ## About Me
 
-I'm a developer and I focus on making mods work faster and work better on all types of computers, especially on mine. My knowledge reaches **Java**, **Python**, **JavaScript**, and a little bit of **C++**
+I'm a developer, and I work on making mods run better on all kinds of computers especially mine. My skills include **Java**, **Python**, **JavaScript**, and a little **C++**
 
-I do all my work on an old computer that runs **antiX Linux** and has a **Pentium Dual-Core** processor with **3GB of RAM**. This means that I have to be very careful about the memory and processing power that my code uses. If it works well on my computer, I know it will work great on powerful PCs
+I do all my work on an old computer running **antiX Linux** that has an **Intel Pentium Dual-Core E2220** processor and **3 GB of RAM**. This means I have to be very careful about the memory and processing power my code uses. If it runs well on my computer, I know it will run great on powerful computers.
 
 ---
 
 ## Projects
 
 ### What I Do
-
-I specialize in taking existing Minecraft mods and improving them. Whether it's maintaining a Forge 1.12.2 mod, migrating a project to the latest version of Fabric, or creating userscripts with a focus on privacy, my approach is always on **optimization, clean code, and minimal overhead**
+I specialize in taking existing Minecraft mods and improving them. Whether I'm maintaining a mod for Forge 1.12.2, optimizing an entire mod, or contributing to a project, my focus is always on **optimization, clean code, and minimal overhead**
 
 ### Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Onyx-i7/SimpleDifficulty">SimpleDifficulty</a></h3>
+      <h3><a href="https://github.com/Onyx-i7/SimpleDifficulty">SimpleDifficulty for Underdog</a></h3>
       <p><em>Active Maintainer</em></p>
       <p>Optimizing and maintaining this Forge 1.12.2 fork. Fixing bugs and improving performance without breaking legacy features</p>
       <p>
@@ -60,18 +59,16 @@ I specialize in taking existing Minecraft mods and improving them. Whether it's 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Onyx-i7/GitHub-Enhanced">GitHub Enhanced</a></h3>
+      <h3><a href="https://github.com/Onyx-i7/NoRecipeBook">NoRecipeBook</a></h3>
       <p><em>Author</em></p>
-      <p>A privacy-first userscript to enhance GitHub with release statistics, extended metadata, and tracking prevention. Zero tracking, minimal overhead</p>
+      <p>A Minecraft 1.12.2 mod that removes the recipe book and attempts to optimize it</p>
       <p>
-        <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=flat-square" />
-        <img src="https://img.shields.io/badge/Privacy-First-green?style=flat-square" />
-        <img src="https://img.shields.io/badge/Zero_Tracking-✓-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Version-1.1.0-purple?style=flat-square" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Onyx-i7/Optimized-Kick-Player">Optimized Kick Player</a></h3>
-      <p><em>Author</em> • <a href="https://onyx-i7.github.io/Optimized-Kick-Player/">🌐 Live Demo</a></p>
+      <p><em>Author & Obsolete</em> • <a href="https://onyx-i7.github.io/Optimized-Kick-Player/">🌐 Live Demo</a></p>
       <p>A clean, fast, and privacy-focused web player for Kick streams. No ads, no tracking, zero dependencies. Single HTML file under 15KB</p>
       <p>
         <img src="https://img.shields.io/badge/HTML5-Standards--compliant-orange?style=flat-square" />
@@ -99,7 +96,7 @@ I specialize in taking existing Minecraft mods and improving them. Whether it's 
 
 ## Technical Stack
 
-- **The programming languages I use the most**: Java, Python, JavaScript
+- **The programming languages I use**: Java, Python, JavaScript
 - **I also know a bit about**: Basic C++
 - **The system I use to develop**: antiX Linux 23.2, with IceWM
 - **What I focus on**: Making everything work better, making sure everything works on all kinds of computers, and using resources wisely
@@ -112,7 +109,7 @@ I specialize in taking existing Minecraft mods and improving them. Whether it's 
 
 ## My PC
 
-This is the PC I use every day for development, testing, and compilation:
+This is the computer I use every day for development, testing, and compiling, as well as for everyday use:
 
 ```text
 Edward@Edward:~
