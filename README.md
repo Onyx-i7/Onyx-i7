@@ -58,7 +58,7 @@ I specialize in taking existing Minecraft mods and improving them. Whether I'm m
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" colspan="2">
       <h3><a href="https://github.com/Onyx-i7/NoRecipeBook">NoRecipeBook</a></h3>
       <p><em>Author</em></p>
       <p>A Minecraft 1.12.2 mod that removes the recipe book and attempts to optimize it</p>
@@ -66,30 +66,6 @@ I specialize in taking existing Minecraft mods and improving them. Whether I'm m
         <img src="https://img.shields.io/badge/Version-1.1.0-purple?style=flat-square" />
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Onyx-i7/Optimized-Kick-Player">Optimized Kick Player</a></h3>
-      <p><em>Author & Obsolete</em> • <a href="https://onyx-i7.github.io/Optimized-Kick-Player/">🌐 Live Demo</a></p>
-      <p>A clean, fast, and privacy-focused web player for Kick streams. No ads, no tracking, zero dependencies. Single HTML file under 15KB</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-Standards--compliant-orange?style=flat-square" />
-        <img src="https://img.shields.io/badge/JavaScript-Vanilla-yellow?style=flat-square" />
-        <img src="https://img.shields.io/badge/<15KB-✓-purple?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" valign="top" colspan="2">
-      <h3><a href="https://github.com/Onyx-i7/StreakMaintainer">StreakMaintainer</a></h3>
-      <p><em>Author</em></p>
-      <p>A lightweight GitHub Actions utility to automate contribution heartbeats and maintain activity streaks. Zero dependencies, privacy-focused, executes in under 15 seconds</p>
-      <p>
-        <img src="https://img.shields.io/badge/GitHub_Actions-YAML-2088FF?style=flat-square" />
-        <img src="https://img.shields.io/badge/Zero_Dependencies-✓-green?style=flat-square" />
-        <img src="https://img.shields.io/badge/Lightweight-<15s-yellow?style=flat-square" />
-        <img src="https://img.shields.io/badge/Privacy_First-✓-blue?style=flat-square" />
-      </p>
-    </td>
-  </tr>
 </table>
 
 ---
@@ -150,7 +126,6 @@ $
   <a href="https://github.com/Onyx-i7"><img src="https://img.shields.io/badge/GitHub-Onyx_i7-181717?style=for-the-badge&logo=github" /></a>
   <a href="https://www.curseforge.com/members/onyx_i7"><img src="https://img.shields.io/badge/CurseForge-onyx_i7-F16436?style=for-the-badge&logo=curseforge" /></a>
   <a href="https://modrinth.com/user/Onyx_i7"><img src="https://img.shields.io/badge/Modrinth-Onyx_i7-00AF5C?style=for-the-badge&logo=modrinth" /></a>
-  <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-edward.v902-5865F2?style=for-the-badge&logo=discord" /></a>
 </div>
 
 ---
