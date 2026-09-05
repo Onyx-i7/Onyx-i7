@@ -1,158 +1,68 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,4,6,11,14,20,24,30,41&height=250&section=header&text=Onyx_i7&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Developer%20%7C%20Mod%20Maintainer%20%7C%20Optimizer&descSize=25&descAlignY=55&descColor=fff" alt="Onyx_i7"/>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=Minecraft+Mod+Maintainer;1000+FPS+looking+at+the+sky;Java+%7C+Python+%7C+JavaScript+%7C+C%2B%2B;All+built+using+a+Foxconn+G31MV-K;Performance+Optimization;Memory+Leak+Hunter;Code+Quality+Matters" alt="Typing SVG"/>
-</div>
-
----
-
-<div align="center">
-    <h1>Hi there 👋</h1>
-    <h3>Minecraft Mod Developer & Maintainer</h3>
-    <p>
-        <em>"If it works well on my dinosaur-era PC, it'll run like a charm on any machine"</em>
-    </p>
-</div>
-
-
----
+# Onyx_i7
+Hi, I'm a mod developer. I focus on optimizing and maintaining existing mods
 
 ## About Me
+I develop on old hardware with limited resources. This forces me to write efficient code. If my mods run well on my old clunker from the 2000s, they'll run great on high-end PCs
 
-I'm a developer, and I work on making mods run better on all kinds of computers especially mine. My skills include **Java**, **Python**, **JavaScript**, and a little **C++**
+### My Development Setup
+- **OS**: antiX Linux 23.2
+- **Processor**: Intel Pentium Dual-Core E2220 @ 2.76 GHz
+- **RAM**: 3 GB
+- **Graphics**: Intel 82G33/G31 Express
 
-I do all my work on an old computer running **antiX Linux** that has an **Intel Pentium Dual-Core E2220** processor and **3 GB of RAM**. This means I have to be very careful about the memory and processing power my code uses. If it runs well on my computer, I know it will run great on powerful computers.
-
----
+## Languages I Use
+- **Java** (primary)
+- Python
+- JavaScript
+- C++ (basic)
 
 ## Projects
 
-### What I Do
-I specialize in taking existing Minecraft mods and improving them. Whether I'm maintaining a mod for Forge 1.12.2, optimizing an entire mod, or contributing to a project, my focus is always on **optimization, clean code, and minimal overhead**
+### Villager Contracts Extended
+**Role**: Maintainer  
+**Status**: Published on CurseForge
+A fork of Villager Contracts with significant improvements. It adds a GUI that makes it easier to select professions when many mods are installed, and provides automatic universal compatibility with any villager mod registered in Forge 1.12.2
 
-### Featured Projects
+**Key Features:**
+- **Improved GUI**: A simple right-click menu when interacting with a contract, eliminating the tedious anvil system
+- **Universal compatibility**: Works automatically with any villager mod (Vanilla, Quark, Ice and Fire, Thaumcraft, Immersive Engineering, etc.)
+- **Clean system**: Removes the old tooltip logic that caused issues in large modpacks
+- **Flexible configuration**: Blacklists, whitelists, and settings for modpacks
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Onyx-i7/SimpleDifficulty">SimpleDifficulty for Underdog</a></h3>
-      <p><em>Active Maintainer</em></p>
-      <p>Optimizing and maintaining this Forge 1.12.2 fork. Fixing bugs and improving performance without breaking legacy features</p>
-      <p>
-        <img src="https://img.shields.io/badge/Forge-1.12.2-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Java-25-orange?style=flat-square" />
-        <img src="https://img.shields.io/badge/Memory_Leaks-Fixed-red?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Onyx-i7/NoSlimeSuperflatMod">NoSlimeSuperflat</a></h3>
-      <p><em>Author</em></p>
-      <p>A lightweight mod preventing slimes in superflat worlds. Available for Forge 1.12.2/1.16.5 and Fabric 1.21.1/26.2</p>
-      <p>
-        <img src="https://img.shields.io/badge/Fabric-26.2-purple?style=flat-square" />
-        <img src="https://img.shields.io/badge/Java-25-red?style=flat-square" />
-        <img src="https://img.shields.io/badge/Lightweight-✓-green?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" colspan="2">
-      <h3><a href="https://github.com/Onyx-i7/NoRecipeBook">NoRecipeBook</a></h3>
-      <p><em>Author</em></p>
-      <p>A Minecraft 1.12.2 mod that removes the recipe book and attempts to optimize it</p>
-      <p>
-        <img src="https://img.shields.io/badge/Version-1.1.0-purple?style=flat-square" />
-      </p>
-    </td>
-</table>
+[View on CurseForge](https://www.curseforge.com/minecraft/mc-mods/villagercontracts-extended)
 
 ---
+### SimpleDifficulty for Underdog
+**Role**: Active maintainer
+I maintain and optimize this fork of Forge 1.12.2. I fix bugs and improve performance
 
-## Technical Stack
-
-- **The programming languages I use**: Java, Python, JavaScript
-- **I also know a bit about**: Basic C++
-- **The system I use to develop**: antiX Linux 23.2, with IceWM
-- **What I focus on**: Making everything work better, making sure everything works on all kinds of computers, and using resources wisely
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,git,linux,bash,vscode,github"/>
-</p>
+[View project](https://github.com/Onyx-i7/SimpleDifficulty)
 
 ---
+### NoSlimeSuperflat
+**Role**: Author
+A lightweight mod that prevents slimes from spawning in superflat worlds. Available for multiple versions of Minecraft
 
-## My PC
+- Forge 1.12.2 / 1.16.5
+- Fabric 1.21.1 / 26.2
 
-This is the computer I use every day for development, testing, and compiling, as well as for everyday use:
-
-```text
-Edward@Edward:~
-$ fastfetch 
-        _,met$$$$$gg.          Edward@Edward
-     ,g$$$$$$$$$$$$$$$P.       -------------
-   ,g$$P""       """Y$$.".     OS: Debian GNU/Linux 12.14 (bookworm) x86_64
-  ,$$P'              `$$$.     Kernel: Linux 6.6.139-antix.1-amd64-smp
-',$$P       ,ggs.     `$$b:    Uptime: 6 hours, 5 mins
-`d$$'     ,$P"'   .    $$$     Packages: 1 (appimage), 2230 (dpkg)
- $$P      d$'     ,    $$P     Shell: bash 5.2.15
- $$:      $$.   -    ,d$$'     Display (SMB2230N): 1280x768 in 22", 75 Hz
- $$;      Y$b._   _,d$P'       DE: icewm
- Y$$.    `.`"Y$$$$P"'          WM: IceWM 4.0.0 (Linux/x86_64) (X11)
- `$$b      "-.__               Theme: gtk2 [Qt], Materia-dark-compact [GTK2/3]
-  `Y$$b                        Icons: papirus-antix [Qt], Papirus-Dark [GTK2/3]
-   `Y$$.                       Font: Ubuntu (10.5pt) [GTK2/3]
-     `$$b.                     Cursor: Adwaita
-       `Y$$b.                  Terminal: roxterm
-         `"Y$b._               CPU: Intel(R) Pentium(R) Dual E2220 (2) @ 2.40 Gz
-             `""""             GPU: Intel 82G33/G31 Express Integrated Graphics]
-                               Memory: 1.06 GiB / 2.90 GiB (37%)
-                               Swap: 88.25 MiB / 6.93 GiB (1%)
-                               Disk (/): 38.43 GiB / 77.85 GiB (49%) - ext4
-                               Local IP (eth0): 192.168.1.104/24
-                               Locale: es_VE.UTF-8
-
-                                                       
-                                                       
-Edward@Edward:~
-$ 
-```
----
-
-## Profiles & Accounts
-
-<div align="center">
-  <a href="https://github.com/Onyx-i7"><img src="https://img.shields.io/badge/GitHub-Onyx_i7-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://www.curseforge.com/members/onyx_i7"><img src="https://img.shields.io/badge/CurseForge-onyx_i7-F16436?style=for-the-badge&logo=curseforge" /></a>
-  <a href="https://modrinth.com/user/Onyx_i7"><img src="https://img.shields.io/badge/Modrinth-Onyx_i7-00AF5C?style=for-the-badge&logo=modrinth" /></a>
-</div>
+[View project](https://github.com/Onyx-i7/NoSlimeSuperflatMod)
 
 ---
+### Villager Market Continued
+**Role**: Developer  
+**Status**: In development (not yet released)
+A fork of the original Villager Market mod. I fix unreported bugs (including NBT errors) and add vanilla-style textures created by Luke616. It includes optimizations and settings that allow you to adjust limits without modifying the source code
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">MY GITHUB STATS 📈</h2></summary>
-  </ul>
-</div>
+[View on GitHub](https://github.com/Onyx-i7/Villager-Market-Continued)
 
-<p align="center">
-<a href="https://github.com/Onyx-i7">
-    <img height="180em" src="./generated-stats/github-readme-stats.svg" />
-    <img height="180em" src="./generated-stats/github-top-langs.svg" alt="Onyx-i7"/>
-</a>
-</p>
+## What I focus on
+  - **Optimization**: Making mods run efficiently on low-end hardware
+  - **Compatibility**: Ensuring mods work across different environments
+  - **Clean code**: Writing maintainable, well-documented code
+  - **Memory management**: Fixing memory leaks and reducing RAM usage
+  - **Refactoring**: Rewriting mods when necessary (though I tried that once and it didn't go well)
 
-<p align="center">
-    <img src="./generated-stats/github-streak-stats.svg"/>
-</p>
-
-<p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Onyx-i7&bg_color=0d1117&color=ff6b6b&line=ee5a6f&point=ff6b6b&area=true&hide_border=true" alt="Activity Graph"/>
-</p>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,4,6,11,14,20,24,30,41&height=150&section=footer" />
-</div>
+## Platforms where I upload my mods
+- [CurseForge](https://www.curseforge.com/members/onyx_i7)
+- [Modrinth](https://modrinth.com/user/Onyx_i7)
