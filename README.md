@@ -23,5 +23,3 @@ Desarrollo en hardware antiguo y con recursos limitados, así que me toca escrib
 ## Plataformas donde subo mis mods
 - [CurseForge](https://www.curseforge.com/members/onyx_i7)
 - [Modrinth](https://modrinth.com/user/Onyx_i7)
-
-> **I don't use AI, I use Google Translate because English isn't my native language. If it bothers you, learn Spanish.**
